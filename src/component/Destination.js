@@ -1,5 +1,6 @@
 import DestinationData from "./DestinationData";
 import "./DestinationStyles.css";
+
 const Destination = () => {
   return (
     <div className="Destination">
@@ -22,5 +23,5 @@ const Destination = () => {
       />
     </div>
   );
-};
+}
 export default Destination;
